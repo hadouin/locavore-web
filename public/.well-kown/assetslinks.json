@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.locavores.android",
+      "sha256_cert_fingerprints": [
+        "1C:87:47:AC:D6:7F:82:2E:09:41:56:17:8B:09:4A:42:BE:50:D4:45:23:44:CE:5E:62:AC:34:74:9A:6E:98:B4"
+      ]
+    }
+  }
+]
